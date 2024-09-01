@@ -21,8 +21,8 @@ for (let i = 0; i < battleZonesData.length; i += 70) {
 }
 
 const offset = {
-  x: -210,
-  y: -800,
+  x: -85,
+  y: -700,
 };
 
 const boundaries = [];
