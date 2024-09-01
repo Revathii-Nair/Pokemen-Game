@@ -49,7 +49,7 @@ class Boundary {
 
   //draw the boundary red
   draw() {
-    c.fillStyle = 'rgba(255,0,0,0.5)';
+    c.fillStyle = 'rgba(255,0,0,0.0)';
     c.fillRect(this.position.x, this.position.y, this.width, this.height);
   }
 } //end of Boundary Class
